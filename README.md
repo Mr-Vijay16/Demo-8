@@ -7,7 +7,7 @@ This project showcases my skills, projects, and contact information in a clean a
 
 ## 🚀 Live Demo
 
-🔗 https://mr-vijay16.github.io/Portfolio-Demo/
+🔗 https://mr-vijay16.github.io/Portfolio-Vijay/
 
 ---
 
